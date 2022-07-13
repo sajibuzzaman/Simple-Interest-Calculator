@@ -17,3 +17,11 @@ h1 {
     border-radius: 25px;
     margin: auto;
 }
+
+.input {
+    margin-left: 20px;
+}
+
+.highlight {
+    background-color: yellow;
+}
